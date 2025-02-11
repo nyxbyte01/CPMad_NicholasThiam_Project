@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "255024354645",
+    "project_id": "firestore-demo-3dcda",
+    "storage_bucket": "firestore-demo-3dcda.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:255024354645:android:8fc6813e947d547d064bdc",
+        "android_client_info": {
+          "package_name": "com.example.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0aZ7dYQSJDHeMPRBfnfACviLPHhfT6gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
